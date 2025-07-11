@@ -50,7 +50,7 @@ Control your system's volume with a wave of your hand!
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/<your-username>/HandWave.git
+   git clone https://github.com/Argh94/HandWave.git
    cd HandWave
    ```
 
@@ -149,8 +149,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ### 📬 Contact
 
-- **GitHub:** [Your GitHub Profile](https://github.com/<your-username>)
-- **Email:** [Your Email] (optional)
+- **GitHub:** [Argh94](https://github.com/Argh94)
 
 ---
 
@@ -200,7 +199,7 @@ Enjoy waving your hand to control your system's volume with **HandWave**! ✋�
 
 ۱. **کلون پروژه:**
    ```bash
-   git clone https://github.com/<your-username>/HandWave.git
+   git clone https://github.com/Argh94/HandWave.git
    cd HandWave
    ```
 
@@ -294,8 +293,7 @@ HandWave/
 
 ### 📬 تماس
 
-- **گیت‌هاب:** [پروفایل شما](https://github.com/<your-username>)
-- **ایمیل:** [ایمیل شما] (اختیاری)
+- **گیت‌هاب:** [Argh94](https://github.com/Argh94)
 
 ---
 
